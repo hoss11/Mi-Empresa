@@ -133,7 +133,7 @@ Lo que dará como resultado mucha informacion relacionada con la transaccion. Si
 ╰──────────────────────────────────────────────────────────────────────────────────────────────────╯
 ```
 
-Donde al final se muestra el PackageID, o ID del paquete (nuestro código). Es importante guardar este ID, ya que mediante su uso es como haremos interaccion con nuestro paquete.
+Donde al final se muestra el PackageID, o ID del paquete (nuestro código). Es importante guardar este ID, ya que mediante su uso es como haremos interaccion con nuestro nuestro codigo y sus funciones.
 
 ## Verificando nuestro paquete en Suiscan
 Suiscan es una plataforma de exploración y análisis. Sirve como una herramienta integral para que los desarrolladores naveguen y analicen datos on-chain, proporcionando información detallada sobre transacciones, direcciones, actividad de la red y diversos componentes del ecosistema.
