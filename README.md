@@ -296,4 +296,6 @@ Lo que nos llevara a una pagina similar a esta: https://www.moveregistry.com/pac
 
 ![alt text](/imagenes/image-1.png)
 
+## Formulario de entrega
+https://airtable.com/appSMP6mbcQoLiIEu/pagGANiEIaqdcrtdc/form
 > Este repositorio fue creado con base al sui-starter-kit de ZinHunter: https://github.com/WayLearnLatam/sui-starter-kit
