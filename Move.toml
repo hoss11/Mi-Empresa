@@ -4,6 +4,6 @@ version = "0.0.0"
 edition = "2024.beta"
 
 [addresses]
-mi_empresa = "0x0"
+mi_biblioteca = "0x0"
 
 [dependencies]
